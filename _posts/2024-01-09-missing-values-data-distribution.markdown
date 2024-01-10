@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 
 When dealing with real-world datasets, encountering missing values is more a rule than an exception. One of the fields where this is prevalent is datasets from historical records. A prime example is the Titanic dataset, famous for its use in machine learning and data science education. Today, we're exploring how different methods of imputing missing values can dramatically affect the distribution of a dataset, using the 'Age' column from the Titanic dataset as our case study.
+![overview]({{ '/assets/img/overview.png' | relative_url }})
+
 ## The Challenge of Missing Data
 
 The 'Age' column in the Titanic dataset is notorious for having missing entries. How we choose to fill these gaps can significantly change our data's story. To illustrate this, let's look at Kernel Density Estimation (KDE) plots representing the age distribution using various imputation techniques.
