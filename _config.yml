@@ -51,9 +51,9 @@ author: Katka Odabasi
 
 navbar-links:
   Blog : "blog"
-  Projects: "projects"
-  About Me: "aboutme"
-  Contact me: "contact"
+  Journal: "projects"
+  About Me: "about"
+  Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
